@@ -15,12 +15,12 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KluevJakov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="https://user-images.githubusercontent.com/66343904/187090677-e4a76bdd-779b-4459-a462-f69b94f74c3d.png"/>
      </p>
     </td>
   </tr>
