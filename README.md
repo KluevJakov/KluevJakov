@@ -24,7 +24,7 @@
   <tr>
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
      <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
