@@ -69,7 +69,7 @@
       </p>
       <br>
       <a href="https://t.me/loo9y" target="_blank">
-      <img align="center" alt="Kluev Jakov | Telegram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <img align="center" alt="Kluev Jakov | Telegram" width="30em" src="https://img.icons8.com/ios/50/000000/telegram.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:kluevja@gmail.com" >
       <img align="center" alt="Kluev Jakov | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
