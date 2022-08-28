@@ -7,6 +7,9 @@
    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KluevJakov&layout=compact"/></a>
 </p>
 
+### Connect with Me 🤝
+- <a href="t.me/loo9y">Telegram</a>
+-
 <!--
 **KluevJakov/KluevJakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
