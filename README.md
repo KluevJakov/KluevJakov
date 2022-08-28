@@ -6,7 +6,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Specialist in Information Security of Automated Systems at <a href="https://sstu.ru/">SSTU</a></li>
+        <li>🎓 &nbsp; Information Security Specialist of Automated Systems at <a href="https://sstu.ru/">SSTU</a></li>
         <li>☕ &nbsp; Java Software Engineer </li>
         <li>🤔 &nbsp; Interested in back-end development</li>
        </ul>
@@ -64,4 +64,3 @@
    </td>
   </tr>
 </table>
-![](https://komarev.com/ghpvc/?username=KluevJakov&color=0069b4)
