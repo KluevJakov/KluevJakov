@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=KluevJakov&show_icons=true&count_private=true">
