@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://user-images.githubusercontent.com/66343904/187090677-e4a76bdd-779b-4459-a462-f69b94f74c3d.png"/>
+        <img height="360em" src="https://external-preview.redd.it/Fstwa20tLzjOCokJezRISCwu4KGxsTFGpQrd_40miFA.gif?format=mp4&s=4a9aaca5813d81176eeed99df6fd55657a18ab8b"/>
      </p>
     </td>
   </tr>
