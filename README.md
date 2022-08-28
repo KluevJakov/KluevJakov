@@ -37,6 +37,7 @@
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
+     <img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
