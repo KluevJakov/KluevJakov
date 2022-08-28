@@ -10,7 +10,7 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; Specialist in Information Security of Automated Systems at <a href="https://sstu.ru/">SSTU</a></li>
-        <li>👑 &nbsp; Java Software Engineer </li>
+        <li>☕ &nbsp; Java Software Engineer </li>
         <li>🤔 &nbsp; Interested in back-end development</li>
        </ul>
        <p align="center">
@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://external-preview.redd.it/Fstwa20tLzjOCokJezRISCwu4KGxsTFGpQrd_40miFA.gif?format=mp4&s=4a9aaca5813d81176eeed99df6fd55657a18ab8b"/>
+        <img height="360em" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
      </p>
     </td>
   </tr>
