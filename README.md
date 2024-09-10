@@ -11,8 +11,6 @@
         <li>🤔 &nbsp; Interested in back-end development</li>
        </ul>
        <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KluevJakov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
@@ -25,7 +23,6 @@
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
      <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
      <br>
@@ -53,9 +50,6 @@
       </a> &nbsp;&nbsp;
       <a href="mailto:kluevja@gmail.com" >
       <img align="center" alt="Kluev Jakov | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.instagram.com/cur._.ly/" target="_blank">
-      <img align="center" alt="Kluev Jakov | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
